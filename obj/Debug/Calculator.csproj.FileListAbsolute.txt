@@ -1,0 +1,28 @@
+D:\12D\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\12D\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\12D\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\12D\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+D:\12D\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+D:\12D\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\12D\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+D:\12D\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\12D\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\Programe\Microsoft Visual Studio\Visual Studio Proiecte\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\Programe\Microsoft Visual Studio\Visual Studio Proiecte\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\Programe\Microsoft Visual Studio\Visual Studio Proiecte\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\Programe\Microsoft Visual Studio\Visual Studio Proiecte\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Programe\Microsoft Visual Studio\Visual Studio Proiecte\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Programe\Microsoft Visual Studio\Visual Studio Proiecte\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+D:\Programe\Microsoft Visual Studio\Visual Studio Proiecte\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+D:\Programe\Microsoft Visual Studio\Visual Studio Proiecte\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\Programe\Microsoft Visual Studio\Visual Studio Proiecte\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+E:\Informatica\Visual Studio Workspace\Calculator\Calculator\bin\Debug\Calculator.exe.config
+E:\Informatica\Visual Studio Workspace\Calculator\Calculator\bin\Debug\Calculator.exe
+E:\Informatica\Visual Studio Workspace\Calculator\Calculator\bin\Debug\Calculator.pdb
+E:\Informatica\Visual Studio Workspace\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+E:\Informatica\Visual Studio Workspace\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+E:\Informatica\Visual Studio Workspace\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+E:\Informatica\Visual Studio Workspace\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+E:\Informatica\Visual Studio Workspace\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+E:\Informatica\Visual Studio Workspace\Calculator\Calculator\obj\Debug\Calculator.exe
+E:\Informatica\Visual Studio Workspace\Calculator\Calculator\obj\Debug\Calculator.pdb
